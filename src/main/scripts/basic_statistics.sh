@@ -34,4 +34,5 @@ echo "Total lines: $totalLines"
 
 
 # halt to capture input from user
+echo "Press ENTER to exit"
 read x

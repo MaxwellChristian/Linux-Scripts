@@ -46,4 +46,5 @@ totalCharacters=$(wc -w < data/log.log)
 echo "Total characters: $totalCharacters"
 
 # halt to capture input from user
+echo "Press ENTER to exit"
 read x
